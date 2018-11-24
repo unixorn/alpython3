@@ -9,3 +9,4 @@ Alpine + Python 3 + updated `pip`
 [![GitHub stars](https://img.shields.io/github/stars/unixorn/alpython3.svg)](https://github.com/unixorn/alpython3/stargazers)
 [![Code Climate](https://codeclimate.com/github/unixorn/alpython3/badges/gpa.svg)](https://codeclimate.com/github/unixorn/alpython3)
 [![Issue Count](https://codeclimate.com/github/unixorn/alpython3/badges/issue_count.svg)](https://codeclimate.com/github/unixorn/alpython3)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/unixorn/alpython3/master.svg)](https://github.com/unixorn/alpython3)
