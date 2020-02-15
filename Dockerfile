@@ -1,6 +1,6 @@
-FROM alpine:3.8
+FROM alpine:3.11
 
-LABEL description="Alpine 3.8 + Python3 + Pip"
+LABEL description="Alpine 3.11 + Python3 + pip"
 LABEL maintainer "Joe Block <jpb@unixorn.net>"
 
 # Set up python & pip
